@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Harry Potter",
+        "phone": "9999999999",
+        "email": "harry@gmail.com",
+        "address": "Number 4, Privet Drive in the fictional town of Little Whinging, Surrey, England"
+    },
+    {
+        "name": "Hermione Granger",
+        "phone": "0000000000",
+        "email": "hermione@gmail.com",
+        "address": "8 Heathgate, Hampstead Garden Suburb, London, Great Britain"
+    }
+]
